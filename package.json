@@ -82,7 +82,7 @@
     "sinon": "^1.17.6",
     "standard-version": "^4.0.0",
     "strong-error-handler": "^1.0.1",
-    "validate-commit-msg": "^2.8.0"
+    "validate-commit-msg": "^2.9.0"
   },
   "config": {
     "commitizen": {
